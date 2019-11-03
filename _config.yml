@@ -21,11 +21,12 @@
 title: Soumyabrata Talukder
 email: talukder@iastate.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website of Soumyabrata Talukder
-baseurl: "/home" # the subpath of your site, e.g. /
-url: "http://talukder88.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  Official website of Soumyabrata Talukder.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "talukder88.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: soumyabrata-talukder-5738b532
 github_username:  Soumya088
+contact: Contact
 
 # Build settings
 theme: minima
