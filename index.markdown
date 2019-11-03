@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![](mypic.jpg)  
+![](mypic.png)  
 
 [CV](CV.pdf)
 
