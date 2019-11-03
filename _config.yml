@@ -29,10 +29,17 @@ url: "" # the base hostname & protocol for your site, e.g. http://github.io/
 linkedin_username: soumyabrata-talukder-5738b532
 github_username:  Soumya088
 
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
+
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+#theme: minima
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
