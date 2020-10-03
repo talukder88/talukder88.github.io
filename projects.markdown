@@ -6,7 +6,7 @@ permalink: /projects/
 
 **Academic Course Projects** 
 
-A. Iowa State University, Ames, IA, USA (*2017 - Till Present, pursuing degree: Ph.D. in Electrical Engineering*)
+A. [Iowa State University](https://www.ece.iastate.edu/), Ames, IA, USA (*2017 - Till Present, pursuing degree: Ph.D. in Electrical Engineering*)
 
 1. [Gaussian Mixture Model based Clustering](gmm.pdf) - Course EE 525X (Data Analytics)
 2. [Modelling and Verification of Traffic Signal System](fmethods.pdf) - Course COM S 507X (Applied Formal Methods)
@@ -14,7 +14,7 @@ A. Iowa State University, Ames, IA, USA (*2017 - Till Present, pursuing degree: 
 4. [Dynamic Performance Analysis based on WECC 179-Bus Model using TSAT](179bus.pdf) - EE 554 (Power System Dynamics) 
 5. [A Physical State based DQN Agent for Autonomous Vehicles](landshark.pdf) - ME 592X (Machine Learning for Cyberphysical Systems)
 
-B. Jadavpur University, Kolkata, India (*2005 - 2009, degree: Bachelors in Electrical Engineering*)
+B. [Jadavpur University](http://www.jaduniv.edu.in/), Kolkata, India (*2005 - 2009, degree: Bachelors in Electrical Engineering*)
 
 1. [Simulation of Flight Control System of F-12 Aircraft](fcs.pdf) - Control Systems Project and Seminar
 
