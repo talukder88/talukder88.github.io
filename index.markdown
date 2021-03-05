@@ -13,5 +13,5 @@ I am a fourth year PhD student, advised by [Dr. Ratnesh Kumar](https://www.ece.i
  coalition games, dynamic stability and control, and formal methods*, with *power systems* as the application domain. I did Bachelors in Electrical Engineering
  from [Jadavpur University](http://www.jaduniv.edu.in/), India in 2009.
 
-In summer 2019 and Fall 2020, I interned with [GE Global Research Center](https://www.ge.com/research/) in NY, USA. I also have past industrial experience of 8 years
+In summer 2019 and Fall 2020, I interned with [GE Research](https://www.ge.com/research/) in NY, USA. I also have past industrial experience of 8 years
  at [GE Grid Solutions](https://www.gegridsolutions.com/) and [ITC Ltd.](https://www.itcportal.com/) in India, prior starting my PhD program.
