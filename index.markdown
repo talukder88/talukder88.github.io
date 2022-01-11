@@ -17,4 +17,4 @@ I completed Bachelors in Electrical Engineering
 in industry at [GE Grid Solutions](https://www.gegridsolutions.com/) and [ITC Ltd.](https://www.itcportal.com/). As part of my doctoral 
 study, I did internships in [Tesla, Inc.](https://www.tesla.com/) and [National Renewable Energy Laboratory](https://www.nrel.gov/) in 
 Fall 2021 and Summer 2021, respectively. I also interned in [GE Research](https://www.ge.com/research/) 
-in Summer 2019 and Fall 2020. 
+in Summer 2019 and in Fall 2020. 
