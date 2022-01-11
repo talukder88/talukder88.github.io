@@ -14,4 +14,7 @@ I am a 5th year PhD student, advised by [Dr. Ratnesh Kumar](https://www.ece.iast
 
 I completed Bachelors in Electrical Engineering
  from [Jadavpur University](http://www.jaduniv.edu.in/), India in 2009. Prior to starting my doctoral study, I spent 8 years
-in industry at [GE Grid Solutions](https://www.gegridsolutions.com/) and [ITC Ltd.](https://www.itcportal.com/). As part of my doctoral study, I did internships in [Tesla, Inc.](https://www.tesla.com/) and [National Renewable Energy Laboratory](https://www.nrel.gov/) in Fall 2021 and Summer 2021, respectively. In summer 2019 and Fall 2020, I also interned with [GE Research](https://www.ge.com/research/) in NY, USA. 
+in industry at [GE Grid Solutions](https://www.gegridsolutions.com/) and [ITC Ltd.](https://www.itcportal.com/). As part of my doctoral 
+study, I did internships in [Tesla, Inc.](https://www.tesla.com/) and [National Renewable Energy Laboratory](https://www.nrel.gov/) in 
+Fall 2021 and Summer 2021, respectively. I also interned in [GE Research](https://www.ge.com/research/) 
+in Summer 2019 and Fall 2020. 
